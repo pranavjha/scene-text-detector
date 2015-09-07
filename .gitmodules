@@ -1,0 +1,9 @@
+[submodule "deps/opencv"]
+	path = deps/opencv
+	url = https://github.com/Itseez/opencv.git
+[submodule "deps/opencv_contrib"]
+	path = deps/opencv_contrib
+	url = https://github.com/Itseez/opencv_contrib.git
+[submodule "deps/tesseract"]
+	path = deps/tesseract
+	url = https://github.com/tesseract-ocr/tesseract.git
